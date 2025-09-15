@@ -20,6 +20,7 @@ nav:
   - 攻略:
     - PVE 概览: guide/pve-overview.md
     - PVP 概览: guide/pvp-overview.md
+    - 虫洞基础: PVE/wormhole.md
   - 工具: tools.md
 markdown_extensions:
   - admonition
