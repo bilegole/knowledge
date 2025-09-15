@@ -16,6 +16,7 @@ nav:
     - 快速开始: guide/getting-started.md
     - 术语表: guide/terminology.md
     - 新人 FAQ: guide/faq.md
+  - PVE 概览: index.md
   - 攻略:
     - PVE 概览: guide/pve-overview.md
     - PVP 概览: guide/pvp-overview.md

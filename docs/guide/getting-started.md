@@ -1,6 +1,6 @@
 # 快速开始
 
-本指南将帮助你在本地预览与构建本 Wiki。
+本指南将帮助你在本地预览与构建本 Wiki。你也可以从 [首页](../index.md) 进入浏览内容。
 
 ## 安装依赖
 
@@ -37,6 +37,10 @@ mkdocs build
 - 需要出现在导航中的页面，在 `mkdocs.yml` 的 `nav` 中配置；
 - 静态资源（图片、附件）建议放置在 `docs/assets/` 下，并使用相对路径引用。
 
+更多建议与说明可查看项目 [README](../../README.md)。
+
 ## 常见问题
 
 - 如果 `mkdocs` 命令无法识别，请确认 Python 的 Scripts 目录已加入 PATH，或者使用 `python -m mkdocs serve` 运行。
+- 新人常见问题汇总见：[新人 FAQ](faq.md)。
+- 不熟悉的缩写与名词见：[术语表](terminology.md)。

@@ -1,6 +1,6 @@
 # 工具与资源
 
-> 高效的舰长离不开好用且可靠的第三方工具。本页按用途分类列出，并给出简要使用要点。
+> 高效的舰长离不开好用且可靠的第三方工具。本页按用途分类列出，并给出简要使用要点。想了解这些工具在实战/日常中的用法，可参考：[PVE 概览](guide/pve-overview.md)、[PVP 概览](guide/pvp-overview.md) 与 [新人 FAQ](guide/faq.md)。
 
 ## 基础与百科
 - EVE 官方帮助中心：https://support.eveonline.com/ — 账号/安全/申诉与规则。
@@ -43,13 +43,19 @@
 
 ## 开发者与 ESI
 - EVE Swagger Interface（API 文档）：https://esi.evetech.net/ — 官方 ESI 接口。
--esi.tools（ESI 辅助）：https://esi.evetech.net/ui/ 与 https://evetech.github.io — 调试与OpenAPI。
+- esi.tools（ESI 辅助）：https://esi.evetech.net/ui/ 与 https://evetech.github.io — 调试与OpenAPI。
 
 ## 使用与维护建议
-- 路线规划：Dotlan + Gatecamp Check 联用，危险系统绕行或准备支援。
-- 配装验证：先在 Pyfa 验证电容/应用/抗性，再上舰试飞；不要盲从社区流行装。
-- 估价对冲：Janice 与 Evepraisal 双开，取中位数，避免异常价误判。
+- 路线规划：Dotlan + Gatecamp Check 联用，危险系统绕行或准备支援（见：[战绩与地图/情报](#战绩与地图情报)）。
+- 配装验证：先在 Pyfa 验证电容/应用/抗性，再上舰试飞（见：[配装与理论](#配装与理论fitting-theorycraft)）；不要盲从社区流行装。
+- 估价对冲：Janice 与 Evepraisal 双开，取中位数，避免异常价误判（见：[市场与价格](#市场与价格)）。
 - 镜像站/不可用时：优先使用替代项（如 Tripwire ⇄ Pathfinder，EVEMarketer ⇄ Everef/Adam4EVE）。
+
+## 进一步阅读
+- 新人指南：[快速开始](guide/getting-started.md)
+- 概览与实践：[PVE 概览](guide/pve-overview.md) · [PVP 概览](guide/pvp-overview.md)
+- 术语与常见问题：[术语表](guide/terminology.md) · [新人 FAQ](guide/faq.md)
+- 返回：[首页](index.md)
 
 ## 社区
 - 官方论坛：https://forums.eveonline.com/

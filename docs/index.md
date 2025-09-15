@@ -4,12 +4,12 @@
 
 ## 这个 Wiki 包含哪些信息
 
-- 游戏简介与背景介绍
-- 舰长生涯规划
-- PVE攻略
-- PVP攻略
-- 工具资源
+- 游戏简介与背景介绍（见下方快速开始与各指南）
+- 舰长生涯规划（参考「指南 → 术语表」「指南 → 新人 FAQ」）
+- [PVE 攻略](guide/pve-overview.md)
+- [PVP 攻略](guide/pvp-overview.md)
+- [工具资源](tools.md)
 
 ## 快速开始
 
-请阅读「指南 → 快速开始」。
+请阅读「指南 → [快速开始](guide/getting-started.md)」。
