@@ -22,6 +22,7 @@ nav:
     - PVP 概览: guide/pvp-overview.md
     - 扫描: guide/scanning.md
     - 虫洞基础: PVE/wormhole.md
+    - 电鱼和炸鱼: PVE/bumping-lighting.md
   - 工具: tools.md
 markdown_extensions:
   - admonition
