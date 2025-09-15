@@ -14,6 +14,12 @@ nav:
   - 首页: index.md
   - 指南:
     - 快速开始: guide/getting-started.md
+    - 术语表: guide/terminology.md
+    - 新人 FAQ: guide/faq.md
+  - 攻略:
+    - PVE 概览: guide/pve-overview.md
+    - PVP 概览: guide/pvp-overview.md
+  - 工具: tools.md
 markdown_extensions:
   - admonition
   - toc:
