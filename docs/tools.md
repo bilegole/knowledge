@@ -1,6 +1,6 @@
 # 工具与资源
 
-> 高效的舰长离不开好用且可靠的第三方工具。本页按用途分类列出，并给出简要使用要点。想了解这些工具在实战/日常中的用法，可参考：[PVE 概览](guide/pve-overview.md)、[PVP 概览](guide/pvp-overview.md) 与 [新人 FAQ](guide/faq.md)。
+> 高效的舰长离不开好用且可靠的第三方工具。本页按用途分类列出，并给出简要使用要点。想了解这些工具在实战/日常中的用法，可参考：[PVE 概览](PVE/pve-overview.md)、[PVP 概览](guide/pvp-overview.md) 与 [新人 FAQ](guide/faq.md)。
 
 ## 基础与百科
 - EVE 官方帮助中心：https://support.eveonline.com/ — 账号/安全/申诉与规则。
@@ -53,7 +53,7 @@
 
 ## 进一步阅读
 - 新人指南：[快速开始](guide/getting-started.md)
-- 概览与实践：[PVE 概览](guide/pve-overview.md) · [PVP 概览](guide/pvp-overview.md)
+- 概览与实践：[PVE 概览](PVE/pve-overview.md) · [PVP 概览](guide/pvp-overview.md)
 - 术语与常见问题：[术语表](guide/terminology.md) · [新人 FAQ](guide/faq.md)
 - 返回：[首页](index.md)
 

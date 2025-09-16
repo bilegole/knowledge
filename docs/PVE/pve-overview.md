@@ -35,7 +35,7 @@
 - 探险：Astrometrics 系列、Hacking/Archaeology；
 - 通用：Target Management、Long Range Targeting、Weapon Upgrades/Advanced Weapon Upgrades。
 
-如遇不熟悉的缩写或名词，可查阅：[术语表](terminology.md)。
+如遇不熟悉的缩写或名词，可查阅：[术语表](../guide/terminology.md)。
 
 ## 提升效率的做法
 - 任务准备清单：

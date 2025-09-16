@@ -6,7 +6,7 @@
 
 - 游戏简介与背景介绍（见下方快速开始与各指南）
 - 舰长生涯规划（参考「指南 → 术语表」「指南 → 新人 FAQ」）
-- [PVE 攻略](guide/pve-overview.md)
+- [PVE 攻略](PVE/pve-overview.md)
 - [PVP 攻略](guide/pvp-overview.md)
 - [工具资源](tools.md)
 

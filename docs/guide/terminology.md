@@ -59,4 +59,4 @@
 
 若你遇到未收录的术语，欢迎补充到本页。
 
-参阅： [PVE 概览](pve-overview.md) · [PVP 概览](pvp-overview.md) · [工具资源](../tools.md) · [首页](../index.md)
+参阅： [PVE 概览](../PVE/pve-overview.md) · [PVP 概览](pvp-overview.md) · [工具资源](../tools.md) · [首页](../index.md)
