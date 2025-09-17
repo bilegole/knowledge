@@ -1,3 +1,13 @@
+---
+title: invite-link
+description: 
+published: true
+date: 2025-09-17T15:38:26.367Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:22.889Z
+---
+
 # 新人邀请链接
 
 ### 什么是新人邀请链接

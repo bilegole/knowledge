@@ -1,3 +1,13 @@
+---
+title: terminology
+description: 
+published: true
+date: 2025-09-17T15:38:47.947Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:44.141Z
+---
+
 # 术语表（EVE Online 常见缩写与行话）
 
 > 新人常被术语劝退。本页收录常见缩写与行话，帮助你“听懂频道”。

@@ -1,3 +1,13 @@
+---
+title: scanning
+description: 
+published: true
+date: 2025-09-17T15:38:42.467Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:38.425Z
+---
+
 # 扫描（探针扫描与定向扫描）
 
 面向 K.D.S（宽带山）新兵和对扫描理解不足的老兵。本指南系统讲解 EVE Online 中的两种扫描：探针扫描（Probe Scanning）与定向扫描（Directional Scan / D-Scan）。我会从零开始，覆盖原理、技能与船装、UI 操作、实战流程、狩猎与反狩猎、常见问题与速查表，帮助你在日常生产、探索、狩猎与防御中高效使用扫描。

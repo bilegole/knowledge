@@ -1,3 +1,13 @@
+---
+title: tools
+description: 
+published: true
+date: 2025-09-17T15:37:33.575Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:37:29.829Z
+---
+
 # 工具与资源
 
 > 高效的舰长离不开好用且可靠的第三方工具。本页按用途分类列出，并给出简要使用要点。想了解这些工具在实战/日常中的用法，可参考：[PVE 概览](PVE/pve-overview.md)、[PVP 概览](guide/pvp-overview.md) 与 [新人 FAQ](guide/faq.md)。

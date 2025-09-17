@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2025-09-17T15:37:28.302Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:37:24.660Z
+---
+
 # 欢迎来到 EVE
 
 这里是一个使用由00军团宽带山编写的EVE教程，希望能给您的舰长生涯提供指引。

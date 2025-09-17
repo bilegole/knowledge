@@ -1,3 +1,13 @@
+---
+title: pve-overview
+description: 
+published: true
+date: 2025-09-17T15:37:49.936Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:37:46.192Z
+---
+
 # PVE 概览
 
 > 新人从 PVE 入手能稳定积累资金与经验。本页提供清晰的选择、进阶与效率方法。配装、价格与情报工具可参考：[工具页](../tools.md)。

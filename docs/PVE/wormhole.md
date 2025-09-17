@@ -1,3 +1,13 @@
+---
+title: wormhole
+description: 
+published: true
+date: 2025-09-17T15:37:54.915Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:37:51.517Z
+---
+
 # 虫洞基础
 
 虫洞是连接任意星系的临时通道，难度与收益波动大，适合进阶 PVE 与探险。要点：

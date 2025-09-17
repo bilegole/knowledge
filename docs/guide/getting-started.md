@@ -1,3 +1,13 @@
+---
+title: getting-started
+description: 
+published: true
+date: 2025-09-17T15:38:21.281Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:17.545Z
+---
+
 # 快速开始
 
 本指南将帮助你在本地预览与构建本 Wiki。你也可以从 [首页](../index.md) 进入浏览内容。

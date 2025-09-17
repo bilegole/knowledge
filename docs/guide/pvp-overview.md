@@ -1,3 +1,13 @@
+---
+title: pvp-overview
+description: 
+published: true
+date: 2025-09-17T15:38:31.600Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:28.005Z
+---
+
 # PVP 概览
 
 > EVE 的灵魂是 PVP。掌握基本机制、分工与纪律，就能快速融入战斗。情报与出击准备可参考：[工具 → 战绩与地图/情报](../tools.md#战绩与地图情报)。

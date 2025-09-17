@@ -1,3 +1,13 @@
+---
+title: faq
+description: 
+published: true
+date: 2025-09-17T15:38:15.868Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-17T15:38:12.248Z
+---
+
 # 新人常见问题（FAQ）
 
 > 面向初到新伊甸的舰长，快速解答常见疑问。
